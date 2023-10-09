@@ -1,0 +1,7 @@
+-------------------------------------------------------------
+Weather Stats for - RAYAGADA  || 09 Oct 2023 | 11:35:38 PM
+-------------------------------------------------------------
+	Current temperature is : 23.92 °C
+	Current weather desc   : broken clouds
+	Current Humidity       : 82 %
+	Current wind speed     : 1.02 km/h 
